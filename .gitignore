@@ -1,0 +1,33 @@
+# build outputs
+build/
+dist/
+*.apk
+*.aab
+*.idsig
+
+# signing keys
+keystore.jks
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# secrets
+.env
+secrets.properties
+.deploy_key*
+.ssh_known_hosts
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+local.properties
+.DS_Store
+Thumbs.db
+
+# logs / temp
+*.log
+.tmp/
+__pycache__/
+*.pyc

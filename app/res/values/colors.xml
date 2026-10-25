@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF07080A</color>
+    <color name="surface">#FF111216</color>
+    <color name="line">#FF212329</color>
+    <color name="text">#FFEDEEF1</color>
+    <color name="dim">#FF7C7F86</color>
+    <color name="accent">#FFCDF564</color>
+
+    <color name="bg_light">#FFF5F5EF</color>
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="line_light">#FFE2E2DA</color>
+    <color name="text_light">#FF151613</color>
+    <color name="dim_light">#FF6C6F68</color>
+    <color name="accent_light">#FF4F6B00</color>
+</resources>

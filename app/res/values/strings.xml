@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">时迹</string>
+    <string name="accessibility_label">时迹 · 应用限额</string>
+    <string name="accessibility_desc">时迹需要无障碍权限来识别你当前正在使用的应用。当某个应用达到你设定的每日时长后，时迹会覆盖该应用并返回桌面，直到次日零点重置。时迹不会读取，也不会上传你的屏幕内容。</string>
+    <string name="notif_channel">使用记录</string>
+    <string name="media_listener_label">时迹 · 后台音频</string>
+</resources>
